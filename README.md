@@ -24,7 +24,16 @@ Contains the code to run Dsen2 with and without original bands on Sentinel 2 ima
 Contains 4 functions in **DSEN2_S2LP_process/6_DSEN2_application/6_DSEN2_application.ipynb** used to automate running DSen2 on Sentinel 2 images
 * Directory Function
   * Gets the names of a directory
- * Unzipping Function
+* Unzipping Function
+  * "unzip the files in the directory
+* Moving zipped file function
   * Moving zip files to another location
- * Three methods to run  Dsen2 include:
- * 
+* Three methods to run  Dsen2 include:
+ * Method 1: Typical Ipython method (working)
+ * Method 2: Pass string to cmd inside python (not working yet)
+ * Method 3: Pass string to run (working)
+  * ipython_command_maker function
+ 
+ 
+
+
