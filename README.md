@@ -41,5 +41,10 @@ Contains 2 methods to estimate uncertainity
   *  plot_mpg.ipynb     - Plotting Regression Forest Error Bars
   *  plot_spam.ipynb    - Plotting Classification Forest Error Bars
 * **Tensorflow_probability** folder (Tensorflow Probability method)
+  *  A_Tour_of_TensorFlow_Probability.ipynb - General Tensorflow probability examplar
+  *  Modelling_uncertainty_examplar.ipynb   - Modelling Aleatoric and Epistemic uncertainity in a probability regression Tensorflow probability examplar
+  *  Probabilistic_Layers_Regression.ipynb  - Modelling Aleatoric and Epistemic uncertainity in a linear regression Tensorflow probability examplar
+  *  regression.ipynb                       - Linear regression and Regression with a deep neural network using for single and multiple inputs
+  *  tensorflow_example.ipynb               - An example of Deep Learning Models, Advanced Model Features and methods to Better Model Performance
 * **Uncertanity_example** folder ( examplar of both  Sklearn/Forestci  and Tensorflow Probability methods on LAI data
-* **A_Tour_of_TensorFlow_Probability.ipynb** 
+  * Uncertainty_Tensorflow_and_Tensorflow_probability.ipynb - The examplar (to be used in NEON)
