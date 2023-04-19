@@ -36,5 +36,10 @@ Contains 4 functions in **DSEN2_S2LP_process/6_DSEN2_application/6_DSEN2_applica
   
 # Estimate_prediction_process
 Contains 2 methods to estimate uncertainity
-* **auto_examples_jupyter** (Sklearn/Forestci method)
-* **A_Tour_of_TensorFlow_Probability.ipynb** (Tensorflow Probability method)
+* **auto_examples_jupyter** folder (Sklearn/Forestci method examplars)
+  *  plot_mpg_svr.ipynb - Plotting Bagging Regression Error Bars
+  *  plot_mpg.ipynb     - Plotting Regression Forest Error Bars
+  *  plot_spam.ipynb    - Plotting Classification Forest Error Bars
+* **Tensorflow_probability** folder (Tensorflow Probability method)
+* **Uncertanity_example** folder ( examplar of both  Sklearn/Forestci  and Tensorflow Probability methods on LAI data
+* **A_Tour_of_TensorFlow_Probability.ipynb** 
